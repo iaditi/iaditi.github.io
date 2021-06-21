@@ -12,7 +12,7 @@ const About = () => {
             {/* <h1>I am the about page</h1> */}
             < Header
                 heading="Who Am I"
-                details="|GATE Qualified|Pre-final Year CSE Undergrad|Java Developer|SQL|GCP AWS|Web-Dev|"
+                details="|MBBS|2nd prof|Music Lover|Mad for Cricket|Sleep🧡|"
             />
 
             <div className="about-main">
@@ -20,22 +20,11 @@ const About = () => {
                     {/* subsection 1*/}
                     <h3 className='about-sub-head'>About</h3>
                     <p className='about-details'>
-                        I am Swaraj Khan, Pre-final year CS Undergrad. I like to play with
-                        new technologies.
-                        {' '}
-                        {/* </p>
-                    <p className="about-details"> */}
+                        I am Aditi Mondal. I am from Narrah, Bankura. Currently I am studying MBBS 2nd prof
+                        at ICARE Institute of Medical Science and Research. I have passed my 12th from Narrah
+                        High School and 10th from Narrah GK Girls High School.
                         <br />
-                        My hometown is Bankura. I am currently studying B.Tech. in
-                        Computer Science and Engineering  at B. P. Poddar Institute
-                        of Management and Technology. I have completed my 12th from
-                        Bankura Zilla School and 10th from Purulia M. M. High School.
-                        <br />
-                        I have good knowledge in languages like java, c# , html, css, javascript ,Python, C,C++,.
-                        I have knowledge in the field of Cloud Computing (including Amazon Web Services and Google
-                        Cloud Platform),cyber security,ethical hacking, microsoft office, ubuntu, kali linux, linux mint.
-                        I am a good photographer and also photo and video editor.
-                        I have done more than 50 courses from Coursera including specialization on MERN stack, Cyber Security, AWS, Java, GCP.
+                        I like to spend time by listening music, watching movies, web series and sleeping.
                     </p>
                     {/* can add more subsections here */}
 

@@ -1,5 +1,5 @@
 .home-container {
-    background: linear-gradient(39.97deg, #d0ff25 0.79%, #17f0ff 79.29%);
+    background: linear-gradient(40deg, #b923ff 0.79%, #1e87ff 79.29%);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,13 +18,14 @@
 
 .header-text>h1 {
     /* font-family: */
+    font-family: 'Permanent Marker', cursive;
     font-style: normal;
     font-weight: 900;
     font-size: 3em;
     line-height: 62px;
     text-align: center;
     letter-spacing: 0.2px;
-    color: rgb(194, 150, 122);
+    color: rgb(252, 138, 201);
     margin: 10px;
 }
 
@@ -34,7 +35,7 @@
     font-weight: bolder;
     font-size: 20px;
     line-height: 20px;
-    color: #bfabf5;
+    color: #f5dbab;
     margin: 10px;
 }
 
