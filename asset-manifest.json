@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.edd309b7.chunk.css",
-    "main.js": "/static/js/main.e61e67ba.chunk.js",
-    "main.js.map": "/static/js/main.e61e67ba.chunk.js.map",
+    "main.css": "/static/css/main.19d4c208.chunk.css",
+    "main.js": "/static/js/main.9d986e2b.chunk.js",
+    "main.js.map": "/static/js/main.9d986e2b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
-    "static/js/2.218657f7.chunk.js": "/static/js/2.218657f7.chunk.js",
-    "static/js/2.218657f7.chunk.js.map": "/static/js/2.218657f7.chunk.js.map",
+    "static/js/2.0f8b1c37.chunk.js": "/static/js/2.0f8b1c37.chunk.js",
+    "static/js/2.0f8b1c37.chunk.js.map": "/static/js/2.0f8b1c37.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.edd309b7.chunk.css.map": "/static/css/main.edd309b7.chunk.css.map",
-    "static/js/2.218657f7.chunk.js.LICENSE.txt": "/static/js/2.218657f7.chunk.js.LICENSE.txt",
-    "static/media/Swaraj.56ad6961.jpeg": "/static/media/Swaraj.56ad6961.jpeg",
+    "static/css/main.19d4c208.chunk.css.map": "/static/css/main.19d4c208.chunk.css.map",
+    "static/js/2.0f8b1c37.chunk.js.LICENSE.txt": "/static/js/2.0f8b1c37.chunk.js.LICENSE.txt",
+    "static/media/Aditi.03596cb6.jpg": "/static/media/Aditi.03596cb6.jpg",
     "static/media/about_anime.6446d314.gif": "/static/media/about_anime.6446d314.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/contact_anime.1f3936c4.png": "/static/media/contact_anime.1f3936c4.png",
-    "static/media/home_anime.5bc16595.gif": "/static/media/home_anime.5bc16595.gif",
+    "static/media/email.ec354f0f.png": "/static/media/email.ec354f0f.png",
+    "static/media/facebook.21235672.png": "/static/media/facebook.21235672.png",
+    "static/media/home_anime.2c983702.gif": "/static/media/home_anime.2c983702.gif",
     "static/media/skills_vector.1fb5f4a4.png": "/static/media/skills_vector.1fb5f4a4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b83279d6.js",
-    "static/js/2.218657f7.chunk.js",
-    "static/css/main.edd309b7.chunk.css",
-    "static/js/main.e61e67ba.chunk.js"
+    "static/js/2.0f8b1c37.chunk.js",
+    "static/css/main.19d4c208.chunk.css",
+    "static/js/main.9d986e2b.chunk.js"
   ]
 }
