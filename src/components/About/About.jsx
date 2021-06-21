@@ -40,9 +40,9 @@ const About = () => {
             </div>
 
             < FooterLink
-                phrase="Check out my"
-                link="projects"
-                toAdress="/projects" />
+                phrase="Check out my "
+                link="hobbies"
+                toAdress="/skills" />
 
             {/* Vector frame */}
             <div className="vector-frame">

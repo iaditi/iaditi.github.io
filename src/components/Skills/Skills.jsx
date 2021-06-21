@@ -11,7 +11,7 @@ const Skills = () => {
     return (
         <div className='section-container'>
             < Header
-                heading="My Skills"
+                heading="My Hobbies"
                 details=" "
             />
 

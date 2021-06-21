@@ -1,39 +1,39 @@
 export const skillList = [{
-        skillName: 'Java',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
+        skillName: 'Movies',
+        skillUrl: 'https://image.flaticon.com/icons/png/512/777/777242.png',
     },
     {
-        skillName: 'C#',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/cs.png',
+        skillName: 'Music',
+        skillUrl: 'https://img.icons8.com/doodle/96/000000/headphones--v1.png',
     },
     {
-        skillName: 'SQL',
-        skillUrl: 'https://icons-for-free.com/download-icon-vscode+icons+type+sql-1324451491579630520_512.png',
+        skillName: 'Cricket',
+        skillUrl: 'https://image.flaticon.com/icons/png/512/502/502195.png',
     },
     {
-        skillName: 'Software Development',
-        skillUrl: 'https://img.icons8.com/nolan/96/computer.png',
+        skillName: 'Web Series',
+        skillUrl: 'https://image.flaticon.com/icons/png/512/4907/4907674.png',
     },
     {
-        skillName: 'OOP',
-        skillUrl: 'https://img.icons8.com/fluent/240/000000/object.png',
+        skillName: 'Sleeping',
+        skillUrl: 'https://image.flaticon.com/icons/png/512/1830/1830891.png',
     },
-    {
-        skillName: 'HTML',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
-    },
-    {
-        skillName: 'CSS',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/css.png',
-    },
-    {
-        skillName: 'JavaScript',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
-    },
-    {
-        skillName: 'React',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
-    },
+    // {
+    //     skillName: 'HTML',
+    //     skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
+    // },
+    // {
+    //     skillName: 'CSS',
+    //     skillUrl: 'https://madhavbahl.tech/portfolio-assets/css.png',
+    // },
+    // {
+    //     skillName: 'JavaScript',
+    //     skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
+    // },
+    // {
+    //     skillName: 'React',
+    //     skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
+    // },
 
 
 ];

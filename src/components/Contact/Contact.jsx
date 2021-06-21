@@ -3,11 +3,11 @@ import FooterLink from '../FooterLink/FooterLink';
 import Header from '../Header/Header';
 import './Contact.css';
 import contactVector from './../../assets/contact_anime.png';
-import github from './../../assets/gh.png';
-import linkedin from './../../assets/li.png';
+import facebook from './../../assets/facebook.png';
+import email from './../../assets/email.png';
 import web from './../../assets/web.png';
 import wa from './../../assets/wa.png';
-import swaraj from './../../assets/Swaraj.jpeg';
+import aditi from './../../assets/Aditi.jpg';
 
 const Contact = () => {
     return (
@@ -51,22 +51,22 @@ const Contact = () => {
 
             {/* Social icons */}
             <div className="social-icons-container">
-                <a href="https://github.com/first-phoenix" className="social-icon">
-                    <img src={github} alt="social" className="s_icon_img" />
+                <a href="https://www.facebook.com/aditi.mondal.7503314" className="social-icon">
+                    <img src={facebook} alt="social" className="s_icon_img" />
                 </a>
-                <a href="https://linkedin.com/in/swarajkhan" className="social-icon">
-                    <img src={linkedin} alt="social" className="s_icon_img" />
+                <a href="mailto:iaditimondal@gmail.com" className="social-icon">
+                    <img src={email} alt="social" className="s_icon_img" />
                 </a>
-                <a href="https://iswaraj.github.io/" className="social-icon">
+                <a href="https://iaditi.github.io/" className="social-icon">
                     <img src={web} alt="social" className="s_icon_img" />
                 </a>
-                <a href="https://wa.me/919064297782" className="social-icon">
+                <a href="https://wa.me/918918323759" className="social-icon">
                     <img src={wa} alt="social" className="s_icon_img" />
                 </a>
             </div>
 
             <div className="my-image">
-                <img src={swaraj} alt="Swaraj" className="my-image-img" />
+                <img src={aditi} alt="Aditi" className="my-image-img" />
 
             </div>
 
