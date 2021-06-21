@@ -28,14 +28,14 @@ class Home extends Component {
             <div className="home-container">
                 {/* {this.state.showModal && < Modal closeModal={this.closeModal} />} */}
                 <div className="header-text">
-                    <h1>Welcome to My Website</h1>
-                    <p>from Aditi</p>
+                    <h1>Heyy there! Welcome!</h1>
+                    <p></p>
                     <br />
                     <br />
                 </div>
                 <div className="landing-container">
                     <div data-aos="fade-right" className="landing-left">
-                        <h1 className="landing-header">Hey! I am Aditi</h1>
+                        <h1 className="landing-header">Hii! I am Aditi</h1>
                         <div className="typewriter-container">
                             <Typewriter
                                 options={{
