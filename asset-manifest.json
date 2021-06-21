@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5952374d.chunk.css",
-    "main.js": "/static/js/main.fc77cf6a.chunk.js",
-    "main.js.map": "/static/js/main.fc77cf6a.chunk.js.map",
+    "main.css": "/static/css/main.edd309b7.chunk.css",
+    "main.js": "/static/js/main.e61e67ba.chunk.js",
+    "main.js.map": "/static/js/main.e61e67ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
     "static/js/2.218657f7.chunk.js": "/static/js/2.218657f7.chunk.js",
     "static/js/2.218657f7.chunk.js.map": "/static/js/2.218657f7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5952374d.chunk.css.map": "/static/css/main.5952374d.chunk.css.map",
+    "static/css/main.edd309b7.chunk.css.map": "/static/css/main.edd309b7.chunk.css.map",
     "static/js/2.218657f7.chunk.js.LICENSE.txt": "/static/js/2.218657f7.chunk.js.LICENSE.txt",
     "static/media/Swaraj.56ad6961.jpeg": "/static/media/Swaraj.56ad6961.jpeg",
-    "static/media/about_anime.fd498367.gif": "/static/media/about_anime.fd498367.gif",
+    "static/media/about_anime.6446d314.gif": "/static/media/about_anime.6446d314.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/contact_anime.1f3936c4.png": "/static/media/contact_anime.1f3936c4.png",
-    "static/media/home_anime.150afb3f.gif": "/static/media/home_anime.150afb3f.gif",
+    "static/media/home_anime.5bc16595.gif": "/static/media/home_anime.5bc16595.gif",
     "static/media/skills_vector.1fb5f4a4.png": "/static/media/skills_vector.1fb5f4a4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b83279d6.js",
     "static/js/2.218657f7.chunk.js",
-    "static/css/main.5952374d.chunk.css",
-    "static/js/main.fc77cf6a.chunk.js"
+    "static/css/main.edd309b7.chunk.css",
+    "static/js/main.e61e67ba.chunk.js"
   ]
 }
