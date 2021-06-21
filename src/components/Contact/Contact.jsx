@@ -60,7 +60,7 @@ const Contact = () => {
                 <a href="https://iaditi.github.io/" className="social-icon">
                     <img src={web} alt="social" className="s_icon_img" />
                 </a>
-                <a href="https://wa.me/918918323759" className="social-icon">
+                <a href="https://wa.me/918159946639" className="social-icon">
                     <img src={wa} alt="social" className="s_icon_img" />
                 </a>
             </div>
