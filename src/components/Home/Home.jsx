@@ -27,7 +27,7 @@ class Home extends Component {
         return (
             <div className="home-container">
                 {/* {this.state.showModal && < Modal closeModal={this.closeModal} />} */}
-                <div className="header-text">
+                <div className="header-text glow">
                     <h1>Heyy there! Welcome!</h1>
                     <p></p>
                     <br />
